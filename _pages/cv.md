@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[**Download my latest CV**](https://jianwei.me/files/CV_Jianwei_Huang.pdf)
+
 ## Education
 * **Texas A&M University, College Station, Texas**  
   *Ph.D. in Computer Science* (09/2019 - 12/2025, expected)  
@@ -71,58 +73,3 @@ redirect_from:
 ### **Moving Target Defense System in SDN**
 - Designed an algorithm to map the hierarchical structure of all hosts within an intranet.
 - Developed an obfuscation system for SDN environments to enhance security.
-
-## Skills
-- **Programming Languages:** C, Python, Java  
-- **Program Analysis:** JavaScript (Jalangi, esprima), Java (Soot)  
-- **System Programming:** Windows, Linux  
-
-## Publications
-1. Jianming Fu, **Jianwei Huang**, and Lanxin Zhang.  
-   *Curtain: Keep Your Hosts Away from USB Attacks.*  
-   **International Conference on Information Security**, Springer, Cham, 2017.  
-
-2. Yuan Shi, Huanguo Zhang, Juan Wang, Feng Xiao, **Jianwei Huang**, Daochen Zha, Hongxin Hu, Fei Yan, Bo Zhao.  
-   *Chaos: An SDN-based Moving Target Defense System.*  
-   **Security and Communication Networks**, 2017.  
-
-3. Feng Xiao, **Jianwei Huang**, Peng Liu.  
-   *Hacking the Brain: Customize Evil Protocol to Pwn an SDN Controller.*  
-   **DEF CON 26**, 2018.  
-
-4. Feng Xiao, Jinquan Zhang, **Jianwei Huang**, Guofei Gu, Dinghao Wu, Peng Liu.  
-   *Unexpected Data Dependency Creation and Chaining: A New Attack to SDN.*  
-   **IEEE Symposium on Security and Privacy (S&P’20)**, 2020.  
-
-5. Feng Xiao, **Jianwei Huang**, Yichang Xiong, Guangliang Yang, Hong Hu, Guofei Gu, and Wenke Lee.  
-   *Abusing Hidden Properties to Attack the Node.js Ecosystem.*  
-   **USENIX Security Symposium**, 2021.  
-
-6. Yangyong Zhang, Sunpreet Arora, Maliheh Shirvanian, **Jianwei Huang**, Guofei Gu.  
-   *Practical Speech Reuse Prevention in Voice-driven Services.*  
-   **RAID Conference**, 2021.  
-
-7. Phakpoom Chinprutthiwong, **Jianwei Huang**, and Guofei Gu.  
-   *SWAPP: A New Programmable Playground for Web Application Security.*  
-   **USENIX Security Symposium**, 2022.  
-
-8. Hong Sungmin, Lei Xu, **Jianwei Huang**, Hongda Li, Hongxin Hu, and Guofei Gu.  
-   *SysFlow: Towards a Programmable Zero Trust Framework for System Security.*  
-   **IEEE Transactions on Information Forensics and Security**, 2023.  
-
-9. **Jianwei Huang**, Sridatta Raghavendra Chintapalli, Mengxiao Wang, Guofei Gu.  
-   *Beyond Visual Confusion: Understanding How Inconsistencies in ENS Normalization Facilitate Homoglyph Attacks.*  
-   **The Web Conference (WWW)**, 2025.  
-
-## Community Service
-- ACM WWW Program Committee, 2024, 2025
-- TDSC Reviewer, 2023, 2024
-- ToN Reviewer, 2022
-- TCC Reviewer, 2021, 2022
-- ESORICS Reviewer, 2022
-- CCS External Reviewer, 2022-2025
-- Asia CCS External Reviewr, 2022
-- NDSS External Reviewer, 2022-2024, 
-- USENIX Security External Reviewer, 2024, 2025
-- S&P External Reviewer, 2023
-- RAID External Reviewer, 2022
