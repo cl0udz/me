@@ -1,7 +1,7 @@
 ---
 title: 'Bypass SSL Pinning on iOS'
 date: 2018-04-25
-permalink: /posts/2018/04/ssl_pinning/
+permalink: /posts/ssl_pinning/
 tags:
   - cool posts
   - mobile
