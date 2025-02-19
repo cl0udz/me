@@ -22,4 +22,6 @@ I am a PhD student in [**SUCCESS Lab**](https://success.cse.tamu.edu/) in the De
 - S&P External Reviewer, 2023
 - RAID External Reviewer, 2022
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2PFowsnkFnPoqGthf8c_VBQN-hVCUdjV_5dtUvgY1g8&cl=ffffff&w=50"></script>
+<div style="position: fixed; bottom: 0; right: 0;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2PFowsnkFnPoqGthf8c_VBQN-hVCUdjV_5dtUvgY1g8&cl=ffffff&w=300"></script>
+</div>
