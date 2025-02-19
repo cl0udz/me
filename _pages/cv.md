@@ -58,7 +58,7 @@ redirect_from:
 ### **Hidden Property Abusing in the Node.js Ecosystem**
 - Developed an automated tool to detect hidden properties in Node.js programs.
 - Evaluated the tool on over 70 widely used Node.js libraries.
-- **Code:** [Lynx (Final Release)](https://github.com/xiaofen9/Lynx) & [HiPar (Development Repository)](https://github.com/cl0udz/HiPar)
+- **Code:** [Lynx](https://github.com/xiaofen9/Lynx)
 
 ### **Security Analysis of SDN Controllers**
 - Conducted security analysis of the top five open-source SDN controllers.
