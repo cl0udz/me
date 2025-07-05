@@ -18,6 +18,11 @@ redirect_from:
   *Bachelor of Engineering, Computer Science* (09/2014 - 06/2018)
 
 ## Work Experience
+* **Amazon, Austin, TX, USA**  
+  *Summer Intern* (05/2025 - 08/2025)  
+  - Developing an agentic system for automating threat modeling in GenAI application security reviews, supporting extensibility across varied information sources.
+  - Identified a jailbreak attack on Amazon Nova Models
+
 * **SRI International, Menlo Park, CA, USA**  
   *Summer Intern* (05/2020 - 08/2020)  
   - Conducted research on COVID app security.
