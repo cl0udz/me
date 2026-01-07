@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jianwei's Homepage"
 title_separator          : "-"
-name                     : &name "Jianwei Huang"
+name                     : &name "Jianwei Huang (Jason)"
 description              : &description "personal description"
 url                      : https://jianwei.me # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "cl0udz/me"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Jianwei Huang"
+  name             : "Jianwei Huang (Jason)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student @ Texas A&M"
-  location         : "College Station, USA"
-  employer         : "Texas A&M University"
+  bio              : "Sr Staff Security Researcher @ PANW / PhD Student @ Texas A&M"
+  location         : "Santa Clara, USA"
+  employer         : "Palo Alto Networks / Texas A&M University"
   uri              : # URL
-  email            : "jwhuang@tamu.edu" 
+  email            : "hjwcloud@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

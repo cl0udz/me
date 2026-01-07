@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [**SUCCESS Lab**](https://success.cse.tamu.edu/) in the Department of Computer Science and Engineering at Texas A&M University. My research interests focus on System Security & Web Security. Besides that, I am active in finding vulnerabilities in various applications.
+I am joining Palo Alto Networks in Feburary 2026 as a Sr. Staff Security Researcher. I am also a PhD student in [**SUCCESS Lab**](https://success.cse.tamu.edu/) in the Department of Computer Science and Engineering at Texas A&M University. My research interests focus on System Security & Web Security. Besides that, I am active in finding vulnerabilities in various applications.
 
 ## Community Service
 - ACM WWW Program Committee, 2024, 2025
